@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marcelo Vizcarra========================================================================================================================================Frontend Developer------------------I am a dedicated front-end developer who loves designing interfaces that not only look great but also provide seamless user experiences.* 🌍  I'm based in Peru* 🧠  I'm learning Typescript* 🤝  I'm open to collaborating on Web 3 Projects
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marcelo Vizcarra
+
+I am a Frontend Developer
+
+I love designing interfaces that not only look great but also provide seamless user experiences
+
+- 🌍  I'm based in Peru
+- 🧠  I'm learning Typescript
+- 🤝  I'm open to collaborating on Web 3 Projects
 
 ### Skills
 
