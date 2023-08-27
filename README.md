@@ -1,11 +1,7 @@
 <h1>Hi 👋, I'm Marcelo Vizcarra </h1>
 
-I am a Frontend Developer.
-
-I love designing interfaces that not only look great, but also provide seamless user experiences.
-
 - 🌍  I'm based in Peru
-- 🧠  I'm learning Typescript
+- 🧠  I'm learning Solidity
 - 🤝  I'm open to collaborating on Web 3 Projects
 
 ## 💻 Skills
