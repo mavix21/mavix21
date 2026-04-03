@@ -6,7 +6,7 @@ My main tech stack is **React, TypeScript, Next.js, and Tailwind** for the front
 
 If there's a hackathon happening or a real-world problem to solve, chances are I'm building a solution for it and shipping it.
 
-I've got a bunch of pinned projects, but my favorites are [Mint Up!](link-al-repo-o-live) (an onchain event management app) and [SkillBased](link-al-repo-o-live) (a decentralized professional network). Both were born and won prizes in hackathons.
+I've got a bunch of pinned projects, but my favorites are [Mint Up!](https://github.com/mavix21/mint-up) (an onchain event management app) and [SkillBased](https://github.com/mavix21/SkillBased) (a decentralized professional network). Both were born and won prizes in hackathons.
 
 Beyond coding, I'm deeply involved in the builder ecosystem. I lead the developer community at Ethereum Lima and serve as a DevRel at [Dev3pack](https://dev3pack.xyz/). 
 
